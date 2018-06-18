@@ -109,7 +109,7 @@
             canvasContext.fillStyle = "#fff";
             canvasContext.fillText("mthakur1@hawk.iit.edu",30, 400);
 
-			//image code
+		
 
             var imageIIT = new Image();
             imageIIT.src = 'IIT_SAT_stack_186_white.png';
