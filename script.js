@@ -58,7 +58,7 @@
 
 
 
-            //Rectangle
+          
             canvasContext.beginPath();
             canvasContext.lineWidth=5;
             canvasContext.save();
